@@ -1,4 +1,4 @@
-import LinkedList.{LL, LastNode, Node, flatten}
+import LinkedList.flatten
 
 object Main {
   //
